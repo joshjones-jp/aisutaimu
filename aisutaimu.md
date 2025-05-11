@@ -4,6 +4,9 @@ permalink: index.html
 layout: home
 ---
 
+<img src="images/banner.jpeg" alt="ice cream">
+
+
 # 株式会社アイス・タイム
 
 **ひんやりとした発想と堅実な戦略で、ビジネスの未来を拓く**
@@ -13,11 +16,13 @@ layout: home
 ---
 
 ## 新店舗オープン：六本木店
-
 最新の店舗オープン情報として、**東京都港区六本木**に新たな拠点が誕生します。  
 この店舗では、店舗運営及びブランドマネジメントに関わる複数のポジションを募集しております。情熱と創造性に満ちたリーダーを歓迎し、共に未来に向かって邁進するパートナーを探しています！
 
 [詳しい情報や採用のお問い合わせはこちら](mailto:contact@example.com)
+
+
+<img src="various ice cream flavors in a display at an ice cream parlor, hyper-realistic, HD4k style, clean.jpeg" alt="ice cream">
 
 ---
 
