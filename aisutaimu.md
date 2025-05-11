@@ -22,7 +22,7 @@ layout: home
 [詳しい情報や採用のお問い合わせはこちら](mailto:contact@example.com)
 
 
-<img src="various ice cream flavors in a display at an ice cream parlor, hyper-realistic, HD4k style, clean.jpeg" alt="ice cream">
+<img src="icecream.jpeg" alt="ice cream">
 
 ---
 
