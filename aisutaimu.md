@@ -1,6 +1,7 @@
 ---
-title: "株式会社アイス・タイム"
-description: "プレミアムなアイスクリーム体験を提供する革新と伝統の融合"
+title: 株式会社アイス・タイム
+permalink: index.html
+layout: home
 ---
 
 # 株式会社アイス・タイム
