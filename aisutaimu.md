@@ -4,8 +4,8 @@ permalink: index.html
 layout: home
 ---
 
-<img src="images/banner.jpeg" alt="ice cream"style="width:190px; height:100px;">
-<img src="images/AZD2.png" alt="Azure Diagrams Tutorial" >
+<img src="images/banner.jpeg" alt="ice cream" style="width:190px; height:100px;">
+
 
 # 株式会社アイス・タイム
 
