@@ -31,7 +31,6 @@ layout: home
 ご質問や採用に関するお問い合わせは、下記のSNSまたはメールでお気軽にご連絡ください。
 
 - **LinkedIn:** [株式会社アイス・タイム](https://www.linkedin.com/company/株式会社アイス・タイム)
-- **Twitter:** [@IceTimeJP](https://twitter.com/IceTimeJP)
 - **Email:** [contact@example.com](mailto:contact@example.com)
 
 ---
